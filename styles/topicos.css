@@ -39,3 +39,14 @@
     }
     
 }
+
+@media screen and (min-width: 1728px) {
+    .topicos {
+        padding: 4em 30vw ;
+    }
+
+    .topicos__item {
+        margin-bottom: 0.6em;
+    }
+
+}
