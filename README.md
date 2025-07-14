@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1 align="center">📱 Mobile‑First</h1>
+<h1 align="center">📱 Livraria Alura - Mobile‑First</h1>
 
 <p align="center">
   Projeto responsivo focado em <strong>Mobile‑First</strong>.<br>
@@ -22,14 +22,17 @@
 
 ---
 
-## 🎥 GIFs do site funcionando
+## 🎥 GIF do site funcionando no Desktop
 
 <p align="center">
-  <img src="assets/demo-mobile.gif" alt="Demo Mobile" width="250">
-  <img src="assets/demo-desktop.gif" alt="Demo Desktop" width="400">
+  <img src="assets/Animação.gif" alt="Demo Desktop" width="700">
 </p>
 
-*Obs: Substitua os GIFs acima pelo caminho correto dos seus arquivos. Dica: grave o fluxo no mobile e no desktop e adicione aqui!*
+## 🎥 GIF do site funcionando no Mobile
+
+<p align="center">
+  <img src="assets/Animaçãomobile.gif" alt="Demo Mobile" width="300">
+</p>
 
 ---
 
@@ -45,10 +48,16 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
 - **HTML5**
 - **CSS3** (Flexbox, Grid, Media Queries)
 - **JavaScript Vanilla** (interações simples)
-- Deploy: **Vercel**
+- **Deploy:** Vercel
 
 ---
 
@@ -62,3 +71,7 @@ cd Mobile-First
 # Para rodar (se usar um server), rode:
 # npm start
 # Ou abra o index.html direto no navegador
+
+
+
+
